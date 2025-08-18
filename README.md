@@ -1,31 +1,29 @@
-### Hi there, I'm Entrapta (Vee) 👋
+## Hiya! (๑>◡<๑)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RiftSTWLeaks?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRiftSTW&screen_name=RiftSTWLeaks)
-![Discord](https://img.shields.io/discord/582304739815981140?color=purple&label=My%20Discord&style=for-the-badge)
-## Terrible Node.JS Dev
-
-### Connect with me:
-[<img align="left" alt="RiftSTW | YouTube" width="22px" src="https://www.svgrepo.com/show/157839/youtube.svg" />][youtube]
-[<img align="left" alt="RiftSTWLeaks | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />][twitter]
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
+I'm Vee. I started messing with computers at a young age, and I enjoy building computers and writing code for my projects, which range from Discord bots to an upcoming open-source third-party game launcher dedicated to Fortnite.
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### Contact
 
-![Metrics](https://metrics.lecoq.io/entraptaa?template=classic&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=America%2FChicago)
+[![Discord](https://img.shields.io/badge/entraptaa-%231e1e2e?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.com/users/153980822670671872)
+[![Discord Server](https://img.shields.io/discord/582304739815981140?style=for-the-badge&logo=Discord&logoColor=white&label=Server&color=%231e1e2e&labelColor=%235865F2)](https://discord.gg/GvHfG33)
+[![Twitter](https://custom-icon-badges.demolab.com/badge/veetrapta-blue?style=for-the-badge&label=Twitter&labelColor=%231DA1F2&logo=twitter2)](https://twitter.com/veetrapta)
+[![BlueSky](https://img.shields.io/badge/entrapta-blue?style=for-the-badge&logo=bluesky&logoColor=white&label=BlueSky&labelColor=blue
+)](https://bsky.app/profile/entrapta.bsky.social)
+[![YouTube](https://img.shields.io/badge/entrapta-red?style=for-the-badge&logo=youtube&label=youtube&labelColor=red
+)](https://www.youtube.com/@entraptaa)
 
-</details>
+---
 
-[twitter]: https://twitter.com/RiftSTWLeaks
-[youtube]: https://www.youtube.com/channel/UCw-HS8Vn_N5ycWzWGArkPBQ
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white
+) ![.NET](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+
+### Tools
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
